@@ -6,7 +6,7 @@ pipeline {
 
     stage ('Copy code from git') {
       steps {
-        git 'https://github.com/dlmurga/ds-cert.git'
+        git 'https://github.com/dlmurga/certification-task.git'
       }
     }
 

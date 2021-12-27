@@ -1,5 +1,5 @@
 ---
-- name: Building java app
+- name: Deploying java app
   hosts: prodserver
   become: yes
 
